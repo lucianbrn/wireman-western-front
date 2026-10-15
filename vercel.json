@@ -1,3 +1,3 @@
 {
-  "rewrites": [{ "source": "/", "destination": "/index%20%283%29.html" }]
+  "rewrites": [{ "source": "/", "destination": "/index%20%284%29.html" }]
 }
